@@ -1,6 +1,6 @@
 # Neural networks in quantum many-body physics
 
-![banner](banner.jpg "banner")
+![banner](imgs/banner.jpg "banner")
 
 Professors. J. F. Carrasquilla and R. G. Melko
 
